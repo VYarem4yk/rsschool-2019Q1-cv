@@ -1,1 +1,1 @@
-[https://VYarem4yk.github.io/rsschool-2019Q1-cv/cv.](https://VYarem4yk.github.io/rsschool-2019Q1-cv/cv.)
+[https://VYarem4yk.github.io/rsschool-2019Q1-cv/cv](https://VYarem4yk.github.io/rsschool-2019Q1-cv/cv)
