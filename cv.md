@@ -26,6 +26,5 @@ module.exports = function warmup(temperature) {
 
 
 ### Foreign languages: ###
->**English** *Intermediate(B2)*. I was studing in International House school for two years. I have no problem in reading technical literature. I had to read it for five years during university course in BNTU.
-
->**Deutsch** *Beginer (A1)*. I was studying it for five years in school with foreign bias.
++**English** *Intermediate(B2)*. I was studing in International House school for two years. I have no problem in reading technical literature. I had to read it for five years during university course in BNTU.
++**Deutsch** *Beginer (A1)*. I was studying it for five years in school with foreign bias.
